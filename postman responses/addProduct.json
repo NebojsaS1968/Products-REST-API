@@ -1,0 +1,12 @@
+{
+  "msg": "Product is saved",
+  "new_product": {
+    "_id": "60b09eb93485a9365038c695",
+    "title": "Persona",
+    "description": "Swedish film from master director Ingmar Bergman, released in 1966.",
+    "price": "45$",
+    "inStock": false,
+    "image": "images\\persona.jpg",
+    "__v": 0
+  }
+}

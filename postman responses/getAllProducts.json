@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "_id": "60b09e543485a9365038c693",
+      "title": "Satantango",
+      "description": "Hungarian film from 1994. One of the monuments of late 20th century european art cinema.",
+      "price": "40$",
+      "inStock": true,
+      "image": "images\\satantango.jpg",
+      "__v": 0
+    },
+    {
+      "_id": "60b09e893485a9365038c694",
+      "title": "The Godfather",
+      "description": "Epic mob american film from 1972.",
+      "price": "30$",
+      "inStock": true,
+      "image": "images\\godfather.jpg",
+      "__v": 0
+    },
+    {
+      "_id": "60b09eb93485a9365038c695",
+      "title": "Persona",
+      "description": "Swedish film from master director Ingmar Bergman, released in 1966.",
+      "price": "45$",
+      "inStock": false,
+      "image": "images\\persona.jpg",
+      "__v": 0
+    }
+  ]
+}
